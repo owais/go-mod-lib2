@@ -1,5 +1,5 @@
-package lib1
+package lib2
 
-func name() string {
-	return "lib1"
+func Name() string {
+	return "lib2"
 }
