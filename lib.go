@@ -1,5 +1,5 @@
 package lib2
 
 func Name() string {
-	return "lib2"
+	return "version: lib2"
 }
